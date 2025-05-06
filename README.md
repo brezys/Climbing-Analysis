@@ -63,7 +63,7 @@ ClimbSight leverages several cutting-edge technologies:
 
 1. Clone the repository:
    ```
-   git clone [https://github.com/yourusername/climbsight.git](https://github.com/brezys/Climbing-Analysis.git
+   git clone https://github.com/brezys/Climbing-Analysis.git
    ```
 
 2. Install dependencies:
