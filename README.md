@@ -79,6 +79,11 @@ ClimbSight leverages several cutting-edge technologies:
 
 4. Open your browser and navigate to `http://localhost:3000`
 
+5. You will also need to enter a Google Gemini API Key into a .env file.
+   ```
+   GEMINI_API_KEY=
+   ```
+
 ## 📱 Usage Guide
 
 1. **Enter your biometrics** for personalized analysis
